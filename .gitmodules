@@ -4,3 +4,6 @@
 [submodule "[19VIZ]HackOverflow_Visualization_Competition"]
 	path = [19VIZ]HackOverflow_Visualization_Competition
 	url = https://github.com/eastman-kim/HackOverflow-Visualization-Competition
+[submodule "[19DL]Aerial_Cactus_Detection_Kaggle"]
+	path = [19DL]Aerial_Cactus_Detection_Kaggle
+	url = https://github.com/eastman-kim/Aerial-Cactus-Detection-Kaggle.git
