@@ -1,0 +1,6 @@
+[submodule "[19ML]QuatHub_Data_Challenge"]
+	path = [19ML]QuatHub_Data_Challenge
+	url = https://github.com/eastman-kim/QuatHub-Data-Challenge
+[submodule "[19VIZ]HackOverflow_Visualization_Competition"]
+	path = [19VIZ]HackOverflow_Visualization_Competition
+	url = https://github.com/eastman-kim/HackOverflow-Visualization-Competition
